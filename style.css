@@ -1,0 +1,41 @@
+.container{
+    border: 2px solid;
+   font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    width: 80%;
+    margin-left: 148px;
+    border-radius: 30px;
+    background-color: rgb(185, 226, 240);
+}
+.header{
+    text-align: center;
+}
+.btns{
+    display: flex;
+    justify-content: space-around;
+   
+}
+h3{
+    border: 1px solid;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: rgb(5, 5, 66);
+    color: white;
+    cursor: pointer;
+}
+.inp-btns h3{
+    width: 100%;
+}
+.stats{
+    display: flex;
+    justify-content: space-around;
+    text-align: center;
+    
+}
+.stats h3{
+    background-color: rgb(91, 91, 243);
+    color: black;
+}
+.counter{
+    margin-right: 40px;
+    
+}
